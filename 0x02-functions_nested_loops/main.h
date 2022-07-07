@@ -1,1 +1,1 @@
-Tasks 
+int _putchar(char c);
